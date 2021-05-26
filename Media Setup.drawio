@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T12:06:55.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="GCaqhkEx9PH9QHShc_25" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T12:14:29.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="-FG7k1UDo252qQVfK87N" version="14.7.1" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1253" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -164,6 +164,12 @@
         </mxCell>
         <mxCell id="abDrB5mJENSw6pBe00Hl-46" value="GH5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="15" y="233" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="abDrB5mJENSw6pBe00Hl-47" value="audio feed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="45" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="abDrB5mJENSw6pBe00Hl-48" value="video feed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="300" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
