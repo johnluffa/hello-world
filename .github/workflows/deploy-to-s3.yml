@@ -25,4 +25,4 @@ jobs:
       
     - name: Sync to S3
       run: |
-        aws s3 sync . s3://hello-world-luffa/ --acl public-read --follow-symlinks --delete
+        aws s3 sync . s3://hello-world-luffa/
